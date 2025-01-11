@@ -5,8 +5,8 @@
   
   <img src="https://komarev.com/ghpvc/?username=tolernt&style=flat-square&color=blueviolet" alt="Profile Views"/>
   
-  [![Website](https://img.shields.io/badge/Website-lain.wtf-blueviolet?style=flat-square)](https://lain.wtf/)
-  [![Discord](https://img.shields.io/badge/Discord-Join%20Now-7289DA?style=flat-square&logo=discord)](https://discord.gg/lainbot)
+  [![Website](https://img.shields.io/badge/Website-fbi.bet-blueviolet?style=flat-square)](https://fbi.bet/)
+  [![Discord](https://img.shields.io/badge/Discord-Join%20Now-7289DA?style=flat-square&logo=discord)](https://discord.gg/lawful)
 
   <img src="https://lanyard.cnrad.dev/api/1326506484603027467"/>
 </div>
