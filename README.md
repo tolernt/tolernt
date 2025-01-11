@@ -1,8 +1,8 @@
 # heh, i'm tolernt..
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/avatars/1326506484603027467/d36054736fafa52ad1f7f20f26a2739b.png
-" width="100%" alt="Banner"/>
+  <img src="https://cdn.discordapp.com/avatars/1326506484603027467/d36054736fafa52ad1f7f20f26a2739b.png"
+" width="100%" alt="pfp
   
   <img src="https://komarev.com/ghpvc/?username=tolernt&style=flat-square&color=blueviolet" alt="Profile Views"/>
   
