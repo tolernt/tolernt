@@ -22,19 +22,6 @@ class Lappy:
         self.interests = ["Bot Development", "API Design", "Security"]
 ```
 
-## 🕸️ My Projects
-
-### Lain Bot
-A powerful Discord bot focused on providing unique features and enhancing server management capabilities.
-[Buy Lain](https://discord.gg/lainbot)
-
-### Vile Bot
-Another innovative Discord bot bringing advanced functionality to Discord communities.
-[Get Vile](https://discord.gg/lainbot)
-
-### Birth Products
-A collection of high-quality Discord tools and services.
-[View Products](https://lain.wtf)
 
 ## 🕸️ Socials & Links
 ```python
