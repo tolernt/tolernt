@@ -1,4 +1,4 @@
-# heh, i'm lappy..
+# heh, i'm tolernt..
 
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/1316419652544630806/1325849537239191643/2e7f2ff362787eded5cc761c910b9aa1.gif" width="100%" alt="Banner"/>
@@ -60,7 +60,7 @@ tech_stack = {
 ## 🕸️ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lapwtf&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tolernt&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </div>
 
 ---
