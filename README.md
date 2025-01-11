@@ -15,10 +15,10 @@
 ```python
 class Lappy:
     def __init__(self):
-        self.name = "Lappy"
-        self.discord = "@mwpv"
-        self.website = "https://lain.wtf"
-        self.projects = ["Lain Bot", "Vile Bot", "Birth Products"]
+        self.name = "tolernt"
+        self.discord = "@tolernt"
+        self.website = "https://fbi.bet"
+        self.projects = ["lawful bot"]
         self.interests = ["Bot Development", "API Design", "Security"]
 ```
 
@@ -26,10 +26,10 @@ class Lappy:
 ## 🕸️ Socials & Links
 ```python
 socials = {
-    "discord": "@mwpv",
-    "server": "discord.gg/lainbot",
-    "website": "lain.wtf",
-    "shop": "lain.wtf/shop"
+    "discord": "@tolernt",
+    "server": "discord.gg/lawful",
+    "website": "fbi.bet",
+    "web": "fbi.bet"
 }
 ```
 
