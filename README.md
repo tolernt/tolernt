@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/1316419652544630806/1325849537239191643/2e7f2ff362787eded5cc761c910b9aa1.gif" width="100%" alt="Banner"/>
   
-  <img src="https://komarev.com/ghpvc/?username=lapwtf&style=flat-square&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=tolernt&style=flat-square&color=blueviolet" alt="Profile Views"/>
   
   [![Website](https://img.shields.io/badge/Website-lain.wtf-blueviolet?style=flat-square)](https://lain.wtf/)
   [![Discord](https://img.shields.io/badge/Discord-Join%20Now-7289DA?style=flat-square&logo=discord)](https://discord.gg/lainbot)
