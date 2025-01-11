@@ -1,7 +1,7 @@
 # heh, i'm tolernt..
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/avatars/1326506484603027467/d36054736fafa52ad1f7f20f26a2739b.png?size=1024
+  <img src="https://cdn.discordapp.com/avatars/1326506484603027467/d36054736fafa52ad1f7f20f26a2739b.png
 " width="100%" alt="Banner"/>
   
   <img src="https://komarev.com/ghpvc/?username=tolernt&style=flat-square&color=blueviolet" alt="Profile Views"/>
@@ -14,9 +14,9 @@
 
 ## 🕸️ About Me
 ```python
-class null:
+class Lappy:
     def __init__(self):
-        self.name = "ع"
+        self.name = "Lappy"
         self.discord = "@tolernt"
         self.website = "fbi.bet"
         self.interests = ["Bot Development", "API Design", "Security"]
