@@ -13,7 +13,7 @@
 
 ## 🕸️ About Me
 ```python
-class Lappy:
+class Tolerant:
     def __init__(self):
         self.name = "tolernt"
         self.discord = "@tolernt"
